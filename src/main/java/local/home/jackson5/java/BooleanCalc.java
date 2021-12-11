@@ -14,7 +14,7 @@ public class BooleanCalc {
             System.out.println("");
         }
         public static void printHeader() {
-            System.out.print("    | \t || \t & \t     && \t ^ \n");
+            System.out.print("    | \t || \t & \t     && \t ^2 \n");
         }
 
         public static void main(String[] args) {
